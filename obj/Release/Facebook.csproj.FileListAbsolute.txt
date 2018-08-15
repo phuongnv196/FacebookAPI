@@ -1,0 +1,4 @@
+E:\WindowForm\DesktopBackground\Facebook\bin\Release\Facebook.dll
+E:\WindowForm\DesktopBackground\Facebook\bin\Release\Facebook.pdb
+E:\WindowForm\DesktopBackground\Facebook\obj\Release\Facebook.dll
+E:\WindowForm\DesktopBackground\Facebook\obj\Release\Facebook.pdb
